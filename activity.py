@@ -1,3 +1,5 @@
 print("hello Git")
-print("5+2")
-print("7")
+a=5
+b=2
+print("a+b")
+
